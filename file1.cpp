@@ -9,4 +9,6 @@ int main()
 	cout<<c;
 	c=a*b;
 	cout<<c;
+	c=a/b;
+	cout<<c;
 }

@@ -1,2 +1,4 @@
 this is scm midterm exam
 source code management
+github
+managing your source code

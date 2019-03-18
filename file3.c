@@ -6,4 +6,6 @@ int main()
 	pritnf("%d",c);
 	c=a-b;
 	printf("%d",c);
+	c=a*b;
+	printf("%d",c);
 }
