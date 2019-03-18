@@ -10,5 +10,8 @@ int main()
 	a++;            //a incremented 
 	b--;            //b decremented
 	cout<<a<<endl<<b;
+	c=a++ + b--;
+	cout<<c;
+
 }
 
